@@ -1,0 +1,77 @@
+{
+    "languages": [
+      {
+        "name": "Java",
+        "icon": "devicon-java-plain colored"
+      },
+      {
+        "name": "R",
+        "icon": "devicon-r-original colored"
+      
+      },
+      {
+        "name": "C",
+        "icon": "devicon-c-plain colored"
+      },
+      {
+        "name": "Javascript",
+        "icon": "devicon-javascript-plain colored"
+      },
+      {
+        "name": "Typescript",
+        "icon": "devicon-typescript-plain colored"
+      },
+      {
+        "name": "Python",
+        "icon": "devicon-python-plain colored"
+      },
+      {
+        "name": "Go",
+        "icon": "devicon-go-original-wordmark colored"
+      }
+    ],
+    "libraries": [
+      {
+        "name": "Pandas",
+        "logo": "pandas.png"
+      },
+      {
+        "name": "Scikit-Learn",
+        "logo": "scikit.png"
+      },
+      {
+        "name": "NumPy",
+        "logo": "numpy.png"
+      }
+    ],
+    "web": [
+      {
+        "name": "React.js",
+        "icon": "devicon-react-plain colored"
+      },
+      {
+        "name": "HTML",
+        "icon": "devicon-html5-plain colored"
+      },
+      {
+        "name": "CSS",
+        "icon": "devicon-css3-plain colored"
+      }
+    ],
+    "misc": [
+      {
+        "name": "Git",
+        "icon": "devicon-git-plain colored"
+      },
+      {
+        "name": "GitHub",
+        "icon": "devicon-github-plain colored"
+      },
+      {
+        "name": "RStudio",
+        "icon": "devicon-rstudio-plain colored"
+      
+      }
+
+    ]
+  }
